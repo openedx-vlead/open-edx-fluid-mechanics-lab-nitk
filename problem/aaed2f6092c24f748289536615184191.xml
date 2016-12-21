@@ -1,0 +1,54 @@
+<problem display_name="Multiple Choice" markdown=" Check your ability to answer some of the questions relevant to the simulation that you used.&#10; &#10; 1. The ratio of the percentage error in the discharge and percentage error in the measurement of head over a triangular notch, is&#10;&#10;( )    2/5&#10;(x)    5/2&#10;( )    3/2&#10;( )    2/3&#10;&#10;2. The sheet of liquid flowing over a notch is known as nappe (True or false)&#10;&#10;( )    False&#10;(x)    True&#10;&#10;3. A submerged weir is one in which the water level on the downstream of the weir is&#10;&#10;( )    Just at the crest level&#10;( )    Below the crest level&#10;(x)    Slightly above the crest level&#10;( )    At the same elevation as the upstream water surface&#10;&#10;4. Most economical section of a triangular channel is&#10;&#10; ( )   Isosceles triangle with 45o vertex angle&#10; ( )   Equilateral triangle&#10; (x)   Right angled triangle with equal sides&#10; ( )   Right angled triangle&#10; &#10; 5. In a tank or channel, notch is provided to measure&#10;&#10;( )   Velocity&#10; ( )   Pressure&#10; (x)   Discharge&#10; ( )   Static energy">
+<p> Check your ability to answer some of the questions relevant to the simulation that you used.</p>
+<p> </p>
+<p> 1. The ratio of the percentage error in the discharge and percentage error in the measurement of head over a triangular notch, is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">2/5</choice>
+    <choice correct="true">5/2</choice>
+    <choice correct="false">3/2</choice>
+    <choice correct="false">2/3</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2. The sheet of liquid flowing over a notch is known as nappe (True or false)</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">False</choice>
+    <choice correct="true">True</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3. A submerged weir is one in which the water level on the downstream of the weir is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Just at the crest level</choice>
+    <choice correct="false">Below the crest level</choice>
+    <choice correct="true">Slightly above the crest level</choice>
+    <choice correct="false">At the same elevation as the upstream water surface</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4. Most economical section of a triangular channel is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Isosceles triangle with 45o vertex angle</choice>
+    <choice correct="false">Equilateral triangle</choice>
+    <choice correct="true">Right angled triangle with equal sides</choice>
+    <choice correct="false">Right angled triangle</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> </p>
+<p> 5. In a tank or channel, notch is provided to measure</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Velocity</choice>
+    <choice correct="false">Pressure</choice>
+    <choice correct="true">Discharge</choice>
+    <choice correct="false">Static energy</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
