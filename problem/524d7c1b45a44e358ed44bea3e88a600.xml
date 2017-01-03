@@ -1,0 +1,56 @@
+<problem display_name="Multiple Choice" markdown=" Check your understanding after you have gone through the basic theory and the procedure to use the simulator.&#10; &#10; 1. A right angled V-notch having a depth of water at V-notch as 200mm, calculate the discharge over the notch in liters per minute. Assume coefficient of discharge as 0.62&#10;&#10;( )    1320 liters/min&#10;(x)    1560 liters/min&#10;( )    26 liters/min&#10;( )    30 liters/min&#10;&#10;2. An error of 1% in measuring the head of water over the crest of a triangular notch, produces an error in the discharge which is equal to&#10;&#10; ( )   1.5%&#10; ( )   2%&#10; ( )   1.25%&#10; (x)   2.5%&#10; &#10; 3. V-notch is a type of sharp edged weir.(Say true or false)&#10;&#10; ( )   False&#10; (x)   True&#10; &#10; 4. In V-notch the flow area decreases as H _______&#10;&#10; ( )   Remains same&#10; ( )   Decreases&#10; (x)   Increases&#10; ( )   None of the above&#10; &#10; 5. When θ= 90o and cd= 0.6 for triangular notch, the total discharge can be written as&#10;&#10;(x)    14.17H5/2&#10;( )    1.417H3/2&#10;( )    14.17H3/2&#10;( )    1.417H3/2">
+<p> Check your understanding after you have gone through the basic theory and the procedure to use the simulator.</p>
+<p> </p>
+<p> 1. A right angled V-notch having a depth of water at V-notch as 200mm, calculate the discharge over the notch in liters per minute. Assume coefficient of discharge as 0.62</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">1320 liters/min</choice>
+    <choice correct="true">1560 liters/min</choice>
+    <choice correct="false">26 liters/min</choice>
+    <choice correct="false">30 liters/min</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2. An error of 1% in measuring the head of water over the crest of a triangular notch, produces an error in the discharge which is equal to</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">1.5%</choice>
+    <choice correct="false">2%</choice>
+    <choice correct="false">1.25%</choice>
+    <choice correct="true">2.5%</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> </p>
+<p> 3. V-notch is a type of sharp edged weir.(Say true or false)</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">False</choice>
+    <choice correct="true">True</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> </p>
+<p> 4. In V-notch the flow area decreases as H _______</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Remains same</choice>
+    <choice correct="false">Decreases</choice>
+    <choice correct="true">Increases</choice>
+    <choice correct="false">None of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p> </p>
+<p> 5. When θ= 90o and cd= 0.6 for triangular notch, the total discharge can be written as</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">14.17H5/2</choice>
+    <choice correct="false">1.417H3/2</choice>
+    <choice correct="false">14.17H3/2</choice>
+    <choice correct="false">1.417H3/2</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
