@@ -1,34 +1,30 @@
 <problem display_name="Multiple Choice" markdown=" Check your understanding after you have gone through the basic theory and the procedure to use the simulator.&#10; &#10; 1. Mass of water striking the plate per second is ρaV.( say true or false)&#10;&#10;(x)    True&#10;( )    False&#10;&#10;2. Impact of jet means the force exerted by the&#10;&#10;(x)    Jet on the plate&#10;( )    Plate on the jet&#10;( )    Any of the above&#10; ( )   None of the above&#10; &#10;3. A jet of water of diameter 75mm,velocity 25m/sec strikes a fixed plate in such a way that the angle between the jet and plate is 60° Find the force exerted by the jet on the plate in direction normal to the plate.&#10;&#10;( )    2350N&#10; ( )   2931N&#10; (x)   2391N&#10; ( )   2530N">
-<p> Check your understanding after you have gone through the basic theory and the procedure to use the simulator.</p>
-<p> </p>
-<p> 1. Mass of water striking the plate per second is ρaV.( say true or false)</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">True</choice>
-    <choice correct="false">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2. Impact of jet means the force exerted by the</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Jet on the plate</choice>
-    <choice correct="false">Plate on the jet</choice>
-    <choice correct="false">Any of the above</choice>
-    <choice correct="false">None of the above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p> </p>
-<p>3. A jet of water of diameter 75mm,velocity 25m/sec strikes a fixed plate in such a way that the angle between the jet and plate is 60° Find the force exerted by the jet on the plate in direction normal to the plate.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">2350N</choice>
-    <choice correct="false">2931N</choice>
-    <choice correct="true">2391N</choice>
-    <choice correct="false">2530N</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p> Check your understanding after you have gone through the basic theory and the procedure to use the simulator.</p>
+  <p> </p>
+  <p> 1. Mass of water striking the plate per second is ρaV.( say true or false)</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. Impact of jet means the force exerted by the</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Jet on the plate</choice>
+      <choice correct="false">Plate on the jet</choice>
+      <choice correct="false">Any of the above</choice>
+      <choice correct="false">None of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p>3. A jet of water of diameter 75mm,velocity 25m/sec strikes a fixed plate in such a way that the angle between the jet and plate is 60° Find the force exerted by the jet on the plate in direction normal to the plate.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">2350N</choice>
+      <choice correct="false">2931N</choice>
+      <choice correct="true">2391N</choice>
+      <choice correct="false">2530N</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

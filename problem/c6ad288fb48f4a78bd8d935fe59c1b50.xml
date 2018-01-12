@@ -1,46 +1,41 @@
 <problem display_name="Multiple Choice" markdown=" Check your ability to answer some of the questions relevant to the simulation that you used.&#10; &#10;1. In case of curved vane force on plate is equal to&#10;&#10; ( )   Force on flat plate&#10; (x)   2 x force on flat plate&#10; ( )   1/2 x force on flat plate&#10; ( )   4 x force on flat plate&#10; &#10;2. Find the force exerted by a jet of water of diameter 75mm on a stationary flat plate, the jet strikes the plate normally with the velocity of 20m/s.&#10;&#10;(x)    1767N&#10;( )    1707N&#10;( )    1677N&#10;( )    1776N&#10;&#10;3. The horizontal component of the force on a curved surface is equal to&#10;&#10;( )    Force on a vertical projection of the curved surface&#10;( )    Weight of liquid vertically below the curved surface&#10;( )    Product of pressure at its centroid and the area&#10;(x)    Weight of liquid retained by the curved area.&#10;&#10;4. In case of flat vanes the jet deflects at an angle of&#10;&#10; (x)   90°&#10; ( )   180°&#10; ( )   45°&#10; ( )   None">
-<p> Check your ability to answer some of the questions relevant to the simulation that you used.</p>
-<p> </p>
-<p>1. In case of curved vane force on plate is equal to</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Force on flat plate</choice>
-    <choice correct="true">2 x force on flat plate</choice>
-    <choice correct="false">1/2 x force on flat plate</choice>
-    <choice correct="false">4 x force on flat plate</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p> </p>
-<p>2. Find the force exerted by a jet of water of diameter 75mm on a stationary flat plate, the jet strikes the plate normally with the velocity of 20m/s.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">1767N</choice>
-    <choice correct="false">1707N</choice>
-    <choice correct="false">1677N</choice>
-    <choice correct="false">1776N</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3. The horizontal component of the force on a curved surface is equal to</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Force on a vertical projection of the curved surface</choice>
-    <choice correct="false">Weight of liquid vertically below the curved surface</choice>
-    <choice correct="false">Product of pressure at its centroid and the area</choice>
-    <choice correct="true">Weight of liquid retained by the curved area.</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>4. In case of flat vanes the jet deflects at an angle of</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">90°</choice>
-    <choice correct="false">180°</choice>
-    <choice correct="false">45°</choice>
-    <choice correct="false">None</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p> Check your ability to answer some of the questions relevant to the simulation that you used.</p>
+  <p> </p>
+  <p>1. In case of curved vane force on plate is equal to</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Force on flat plate</choice>
+      <choice correct="true">2 x force on flat plate</choice>
+      <choice correct="false">1/2 x force on flat plate</choice>
+      <choice correct="false">4 x force on flat plate</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p>2. Find the force exerted by a jet of water of diameter 75mm on a stationary flat plate, the jet strikes the plate normally with the velocity of 20m/s.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">1767N</choice>
+      <choice correct="false">1707N</choice>
+      <choice correct="false">1677N</choice>
+      <choice correct="false">1776N</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. The horizontal component of the force on a curved surface is equal to</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Force on a vertical projection of the curved surface</choice>
+      <choice correct="false">Weight of liquid vertically below the curved surface</choice>
+      <choice correct="false">Product of pressure at its centroid and the area</choice>
+      <choice correct="true">Weight of liquid retained by the curved area.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. In case of flat vanes the jet deflects at an angle of</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">90°</choice>
+      <choice correct="false">180°</choice>
+      <choice correct="false">45°</choice>
+      <choice correct="false">None</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

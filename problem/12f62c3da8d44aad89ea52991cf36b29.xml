@@ -1,54 +1,48 @@
 <problem display_name="Multiple Choice" markdown=" Check your understanding after you have gone through the basic theory and the procedure to use the simulator.&#10; &#10; 1. Which of the following is used for measurement of rate of flow in open channel such as river?&#10;&#10; ( )   Mouth piece&#10; (x)   Weir&#10; ( )   Notch&#10; ( )   Orifice&#10; &#10; 2. The velocity with which the liquid approaches the notch or weir before passing over it is called as velocity approach.( Say true or false).&#10;&#10;( )   False&#10;(x)    True&#10;&#10;3. The discharge over the rectangular notch is&#10;&#10;(x)    3/2Cd√ 2g  (H3/2)&#10;( )    2/3Cd√ 2g  (H5/2)&#10;( )    8/15Cd√ 2g  (H3/2)&#10;( )    5/2Cd√ 2g  &#10;&#10;4. Head of water over the rectangular notch is 900mm.the discharge is 300 liters/ sec,Find the length of the notch when cd=0.62.&#10;&#10;( )    198mm&#10;(x)    192mm&#10;( )    129mm&#10;( )    162mm&#10;&#10;5. An error of 1% in measuring the head of water over rectangular notch, produces an error in the discharge which is equal to&#10;&#10;( )    2.0%&#10;( )    2.5%&#10;( )    1.25%&#10;(x)    1.5%">
-<p> Check your understanding after you have gone through the basic theory and the procedure to use the simulator.</p>
-<p> </p>
-<p> 1. Which of the following is used for measurement of rate of flow in open channel such as river?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Mouth piece</choice>
-    <choice correct="true">Weir</choice>
-    <choice correct="false">Notch</choice>
-    <choice correct="false">Orifice</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p> </p>
-<p> 2. The velocity with which the liquid approaches the notch or weir before passing over it is called as velocity approach.( Say true or false).</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">False</choice>
-    <choice correct="true">True</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3. The discharge over the rectangular notch is</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">3/2Cd√ 2g  (H3/2)</choice>
-    <choice correct="false">2/3Cd√ 2g  (H5/2)</choice>
-    <choice correct="false">8/15Cd√ 2g  (H3/2)</choice>
-    <choice correct="false">5/2Cd√ 2g</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>4. Head of water over the rectangular notch is 900mm.the discharge is 300 liters/ sec,Find the length of the notch when cd=0.62.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">198mm</choice>
-    <choice correct="true">192mm</choice>
-    <choice correct="false">129mm</choice>
-    <choice correct="false">162mm</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>5. An error of 1% in measuring the head of water over rectangular notch, produces an error in the discharge which is equal to</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">2.0%</choice>
-    <choice correct="false">2.5%</choice>
-    <choice correct="false">1.25%</choice>
-    <choice correct="true">1.5%</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p> Check your understanding after you have gone through the basic theory and the procedure to use the simulator.</p>
+  <p> </p>
+  <p> 1. Which of the following is used for measurement of rate of flow in open channel such as river?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Mouth piece</choice>
+      <choice correct="true">Weir</choice>
+      <choice correct="false">Notch</choice>
+      <choice correct="false">Orifice</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p> </p>
+  <p> 2. The velocity with which the liquid approaches the notch or weir before passing over it is called as velocity approach.( Say true or false).</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">False</choice>
+      <choice correct="true">True</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. The discharge over the rectangular notch is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">3/2Cd√ 2g  (H3/2)</choice>
+      <choice correct="false">2/3Cd√ 2g  (H5/2)</choice>
+      <choice correct="false">8/15Cd√ 2g  (H3/2)</choice>
+      <choice correct="false">5/2Cd√ 2g</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. Head of water over the rectangular notch is 900mm.the discharge is 300 liters/ sec,Find the length of the notch when cd=0.62.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">198mm</choice>
+      <choice correct="true">192mm</choice>
+      <choice correct="false">129mm</choice>
+      <choice correct="false">162mm</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5. An error of 1% in measuring the head of water over rectangular notch, produces an error in the discharge which is equal to</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">2.0%</choice>
+      <choice correct="false">2.5%</choice>
+      <choice correct="false">1.25%</choice>
+      <choice correct="true">1.5%</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

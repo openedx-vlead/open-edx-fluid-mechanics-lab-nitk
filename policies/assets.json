@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "CIVIL20", 
+            "course": "civil20", 
             "name": "fluid-mechanics-nitk.jpg", 
-            "org": "NIT-Surathkal", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "fluid-mechanics-nitk.jpg", 
-        "filename": "asset-v1:NIT-Surathkal+CIVIL20+Anytime+type@asset+block@fluid-mechanics-nitk.jpg", 
-        "import_path": null, 
+        "filename": "asset-v1:Virtual-Labs+civil20+Anytime+type@asset+block@fluid-mechanics-nitk.jpg", 
+        "import_path": "fluid-mechanics-nitk.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "NIT-Surathkal", 
-            "CIVIL20", 
+            "Virtual-Labs", 
+            "civil20", 
             "thumbnail", 
             "fluid-mechanics-nitk.jpg", 
             null
